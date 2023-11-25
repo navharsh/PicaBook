@@ -89,7 +89,7 @@
 }
 
 .center::after {
-  background: var(--primary-glow);
+  background: var(--secondary-glow);
   width: 240px;
   height: 180px;
   z-index: -1;
