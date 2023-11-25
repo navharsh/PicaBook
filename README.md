@@ -2,6 +2,7 @@
 
 Welcome to PicaBook, a modern and sleek social media platform that allows users to connect, share posts, and explore content from others. This project is built using the Next.js framework for the frontend, Tailwind CSS for styling, and Firebase for the backend infrastructure.
 
+This project is the result of the Caffeine Coders team's effort in the 24-hour hackathon in Graphic Era Hill University. The team was leaded by me ([Navharsh Kumar](https://github.com/navharsh)) along with [Saurabh Anand](https://github.com/saurabhnd3010) and [Divanshi Sharma](https://github.com/Divanshi-sharma) as my fellow teammates.
 ## Features
 
 - **User Authentication:** Secure user authentication powered by Firebase Authentication. Users can sign up, log in, and enjoy a personalized experience.
