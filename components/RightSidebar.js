@@ -3,12 +3,7 @@ import { RiVideoAddFill } from "react-icons/ri";
 import { BiSearch, BiEdit } from "react-icons/bi";
 import { BsThreeDots } from "react-icons/bs";
 import FriendRequests from "./FriendRequests";
-import Contact from "./Contact";
-import Contact2 from "./Contact2";
-import Contact1 from "./Contact";
-import Contact3 from "./Contact3";
-import Contact4 from "./Contact4";
-import Contact5 from "./Contact5";
+import Contacts from "./Contacts";
 
 const RightSidebar = () => {
   return (
@@ -35,11 +30,7 @@ const RightSidebar = () => {
             </div>
           </div>
 
-          <Contact1 />
-          <Contact2 />
-          <Contact3 />
-          <Contact4 />
-          <Contact5 />
+          <Contacts />
 
 
 
