@@ -13,7 +13,7 @@ const Post = ({ data, id }) => {
 
   const isAdmin = (post_data_id, session_id) => {
     if (post_data_id === session_id) return true;
-    else if (session_id === "103122479951529079566") return true;
+    else if (session_id === "1100715643217721436557") return true;
 
     return false;
   };
