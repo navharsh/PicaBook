@@ -25,12 +25,12 @@ This project is the result of the Caffeine Coders team's effort in the 24-hour h
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/pica-book.git
+   git clone https://github.com/navharsh/PicaBook.git
    ```
 
 2. **Navigate to Project Directory:**
    ```bash
-   cd pica-book
+   cd PicaBook
    ```
 
 3. **Install Dependencies:**
@@ -64,7 +64,7 @@ We welcome contributions to make PicaBook even better! Please refer to the [CONT
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/navharsh/PicaBook/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 
