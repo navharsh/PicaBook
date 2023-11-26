@@ -30,12 +30,12 @@ const Story = () => {
     },
     {
       title: "Aastha Kumari",
-      img: "/aastha.jpg",
+      img: "/aastha.jpeg",
       postImg: "bg-[url(https://picsum.photos/200/300?random=5)]",
     },
     {
       title: "Harsh Balliyan",
-      img: "/harsh.jpg",
+      img: "/harsh.jpeg",
       postImg: "bg-[url(https://picsum.photos/200/300?random=6)]",
     },
   ];
