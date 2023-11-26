@@ -9,34 +9,34 @@ import SingleStory from "./SingleStory";
 const Story = () => {
   const singleStoryData = [
     {
-      title: "Sneha",
+      title: "Sneha Suman",
       img: "/sneha.jpeg",
-      postImg: "bg-[url(/building.jpg)]",
+      postImg: "bg-[url(https://picsum.photos/200/300?random=1)]",
     },
     {
       title: "Priyam",
       img: "/priyam.jpeg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      postImg: "bg-[url(https://picsum.photos/200/300?random=2)]",
     },
     {
-      title: "Bill Gates",
-      img: "/bill_gates.jpg",
-      postImg: "bg-[url(/building.jpg)]",
+      title: "Dev Sharma",
+      img: "/dev.jpeg",
+      postImg: "bg-[url(https://picsum.photos/200/300?random=3)]",
     },
     {
-      title: "Elon Musk",
-      img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      title: "Anjali Saini",
+      img: "/anjali.jpeg",
+      postImg: "bg-[url(https://picsum.photos/200/300?random=4)]",
     },
     {
-      title: "Bill Gates",
-      img: "/bill_gates.jpg",
-      postImg: "bg-[url(/building.jpg)]",
+      title: "Aastha Kumari",
+      img: "/aastha.jpg",
+      postImg: "bg-[url(https://picsum.photos/200/300?random=5)]",
     },
     {
-      title: "Elon Musk",
-      img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      title: "Harsh Balliyan",
+      img: "/harsh.jpg",
+      postImg: "bg-[url(https://picsum.photos/200/300?random=6)]",
     },
   ];
 

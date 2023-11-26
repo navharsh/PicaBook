@@ -10,7 +10,7 @@ const SingleStory = ({ title, img, postImg }) => {
         src={img}
         alt={title}
       />
-      <p className="text-white absolute w-[100%] text-center bottom-2">
+      <p className="text-white absolute w-[100%] text-center bottom-2 drop-shadow	">
         {title}
       </p>
     </div>
